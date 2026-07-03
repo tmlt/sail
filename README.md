@@ -1,6 +1,6 @@
 # J/22 Sailing Tips: Comprehensive Summary
 
-**Source:** Consolidated from North Sails webinar (featuring Zeke Horowitz and Mike Marshall), Dave Perry's coaching notes, North sails J22 speed guide and spinnaker technique transcripts.
+**Source:** Consolidated from North Sails webinar (featuring Zeke Horowitz and Mike Marshall), Dave Perry's coaching notes, North sails J/22 speed guide and spinnaker technique transcripts.
 
 ---
 
@@ -8,131 +8,131 @@
 
 ### **Boat Balance & Heel Angle**
 
-The single most critical factor in J/22 upwind performance is maintaining consistent boat balance. The boat is highly sensitive to heel angle, and this is the root cause that drives nearly every other adjustment you'll make.
+Maintaining consistent boat balance is the foundation of J/22 upwind performance. Heel angle drives nearly every adjustment you'll make.
 
-- **In most conditions, sail at deep angles with some weather heel.** This is an important clarification: the J/22 is **not** sailed dead flat in most racing conditions. Instead, you'll typically sail with a modest weather heel (heeling slightly to windward). This is the "natural" angle where the boat finds its balance. However, the key is that this heel should be *controlled* and *consistent*, not erratic or excessive.
+- **Sail at deep angles with some weather heel in most conditions.** Don't sail dead flat—you'll typically carry a modest weather heel (heeling slightly to windward). Keep this heel controlled and consistent, not erratic or excessive.
 
-- **In light air with flat water, sail as flat as possible.** In these specific conditions, every crew member should be on the rail and the boat should be nearly dead flat. You're trying to pressurize the keel by hiking hard rather than using heel to create drive. This is a specific mode for light air, not the norm.
+- **In light air with flat water, sail as flat as possible.** Get all crew on the rail and pressurize the keel by hiking hard rather than using heel for drive. This is light-air mode only.
 
-- **Manage heel to avoid excessive "weather heel"** (healing too much to the windward side). When the boat heels excessively to weather, the bow immediately turns downwind dramatically—you can lose 20+ degrees of heading in seconds. This is the worst possible scenario because the boat is now fighting itself: excessive heel wants to turn upwind, but the jib being overtrimmed wants to pull the bow down, and the main luffing creates imbalance.
+- **Avoid excessive weather heel.** When the boat heels too much to weather, the bow turns downwind dramatically—you can lose 20+ degrees in seconds. This creates the worst scenario: excessive heel turning upwind while the jib pulls the bow down and the main luffs, creating imbalance.
 
-- **Maintain consistent heel angle throughout all conditions.** This is the foundational principle behind all trim adjustments. Whether in light air or heavy breeze, your goal is to keep the boat balanced (which may mean some weather heel in normal conditions) and easy to sail. Every sheet adjustment, traveler move, and crew weight shift is really about managing heel angle to keep the boat in its sweet spot.
+- **Keep heel angle consistent throughout all conditions.** Every sheet adjustment, traveler move, and crew weight shift manages heel angle. Your goal is keeping the boat balanced and easy to sail.
 
-- **If the boat heels excessively to weather, react immediately:** Push the helm (tiller away) to keep the bow up, have crew move in to reduce heel, and ease the jib slightly to reduce the downwind pressure from the jib. The key is that all three actions work together—don't just rely on one.
+- **If the boat heels excessively to weather, react immediately:** Push the helm away to keep the bow up, move crew in to reduce heel, and ease the jib slightly. All three actions work together—don't rely on just one.
 
 ---
 
 ### **Sail Trim & Leeches**
 
-The sail plan in a J/22 is unique: the jib and main are nearly the same size. This means sail interaction is critical, and the two sails must work as a matched pair. Two key telltale references guide your trim.
+The jib and main are nearly the same size, making sail interaction critical. The two sails must work as a matched pair. Use telltale references to guide your trim.
 
-- **Main and jib leeches must match—this is the "holy grail" of J/22 sail trim.** You want the leech of the jib and the belly of the main to flow together as if they were one sail. When leeches match, the boat is balanced, the helm is neutral, and the boat will go fast with minimal steering input. Focus on the upper leech telltale of the main: this is your primary reference point.
+- **Match the main and jib leeches—the "holy grail" of J/22 sail trim.** Make the leech of the jib and the belly of the main flow together as one sail. When matched, the boat is balanced, helm is neutral, and speed comes with minimal steering. Focus on the upper leech telltale of the main.
 
 - **Main telltale trimming sequence by wind condition:** 
   - **Light air:** Top main telltale should always be flying (streaming back 100% of the time)
   - **Medium air:** Trim the sheet until the top telltale stalls 50% of the time (meaning it's luffing half the time, flying half the time)
   - **Heavy air:** As wind continues to build, the telltale will stall less and less as you add backstay tension and open up the top of the sail
 
-- **In lulls, trim the main in aggressively.** This seems counterintuitive (you think you need to ease in light air), but it serves a specific purpose: when the breeze drops suddenly, trimming the main in forces the bow up and buys your crew a critical half-second to move their weight in from the rail before the boat heels to weather. By managing the trim actively, you prevent the boat from rolling to weather and bearing off dramatically. Once crew weight is in and the boat is stable, you can ease the main back out as breeze returns.
+- **In lulls, trim the main in aggressively.** This counterintuitive move forces the bow up and buys your crew a half-second to get their weight in before the boat heels to weather. Prevent rolling to weather and dramatic bearing off by managing trim actively. Ease the main back out as breeze returns.
 
-- **Keep slight wrinkles in the jib and main luff** to stay in optimal shape. These tiny wrinkles tell you the rig is tuned correctly (over-bend wrinkles halfway back the main = lower shrouds are correct; lured shrouds dangling = shroud tension is right).
+- **Keep slight wrinkles in the jib and main luff** for optimal shape. Over-bend wrinkles halfway back the main = lower shrouds correct. Lured shrouds dangling = right tension.
 
-- **Use dynamic trim—constantly adjust sheets** rather than setting them and forgetting. The boat wants constant small adjustments. As the wind puffs and lulls, conditions change microsecond by microsecond, and the fastest teams are making continuous small inputs to keep the boat balanced and moving fast.
+- **Use dynamic trim—constantly adjust sheets.** The fastest teams make continuous small inputs to keep the boat balanced and moving fast. Don't set and forget.
 
 ---
 
 ### **Jib Management**
 
-The jib is your primary control lever for managing boat balance upwind. Because the jib and main are the same size, the jib has outsized influence on the boat's behavior. Specific reference points help ensure consistent trim.
+The jib is your primary control lever for managing boat balance upwind. Use specific reference points to ensure consistent trim.
 
-- **Jib halyard tension and lead car position work together.** In the lightest air, set jib halyard tension so you have only slight "crow's feet" wrinkles at the headstay snaps. Position the lead car so the foot of the jib intersects the toe rail 18 inches back from the bow—you want the foot inside the toe rail but pressed up against it. In most conditions, these reference points remain the same; as wind strength increases, use more halyard tension (to eliminate crow's feet wrinkles) and move the car back (because the jib will be more eased in stronger wind). In the biggest breeze, the jib halyard is as tight as possible.
+- **Set jib halyard tension and lead car position together.** In light air, set halyard tension for slight "crow's feet" wrinkles at headstay snaps. Position the lead car so the jib foot intersects the toe rail 18 inches back from the bow (inside the rail, pressed against it). As wind builds, tighten halyard and move car back. In heavy air, jib halyard is as tight as possible.
 
-- **Monitor the jib top leech telltale constantly.** In most conditions, the jib's top leech telltale should be flying with just a quarter-inch of trim needed to stall it. This tells you the air is flowing smoothly over the jib and into the main. When trimming, you want the telltale on the edge of flying/stalling, not fully streaming or fully stalled.
+- **Monitor the jib top leech telltale constantly.** It should fly with just a quarter-inch of trim needed to stall it. Keep the telltale on the edge of flying/stalling, not fully streaming or fully stalled. This tells you air is flowing smoothly over the jib and into the main.
 
-- **In heavy air, ease the jib more than the main.** This is counterintuitive, but it's critical. If the main is luffing but the jib is still trimmed in tight, the boat will remain heeled to leeward and unbalanced. The jib's "weather helm" (pulling the bow down) combined with the heel creates the worst-case scenario: the driver can't keep the bow up, the helm becomes very hard to manage, and the boat slows down. In the biggest breeze, there's a point when you can have the jib too tight—you'll know this because when you ease the main, the sail starts to luff due to the jib's backwind. At that point, ease the jib sheet as much as 6 inches.
+- **In heavy air, ease the jib more than the main.** If the main is luffing but the jib is tight, the boat remains heeled to leeward and unbalanced. The jib pulls the bow down while heel wants upwind, creating the worst scenario: hard helm, poor control, and slow speed. When you ease the main and it luffs due to jib backwind, ease the jib sheet 6 inches.
 
-- **In medium/heavy air, move the jib lead cars back.** This opens the slot between the jib leech and main belly, giving you more room to ease the main without having it luff from disturbed air coming off the jib leech. The rule: position the car so that when you ease the jib sheet to the amount you'll be trimming from in that wind condition (6-12 inches from the cleat), the jib foot sits just over the tow rail centerline. This prevents the jib foot from being too deep (outside the rail), which would be inefficient.
+- **In medium/heavy air, move the jib lead cars back** to open the slot between jib leech and main belly. This lets you ease the main without it luffing from disturbed air. Position the car so when you ease the jib sheet (6-12 inches from cleat), the jib foot sits just over the tow rail centerline.
 
-- **Ease the jib slightly in puffs before your crew can hike in.** Being proactive with the jib sheet in puffy conditions prevents the boat from heeling up in the first place. Ease a "quick burp" on the jib when you see a puff coming (or feel it building), then trim it back as the puff passes and breeze normalizes. This gives crew a chance to move weight out without being caught flat-footed.
+- **Ease the jib slightly in puffs before your crew moves in.** A "quick burp" on the jib prevents heeling up. Trim it back as the puff passes. This gives crew time to move weight out without being caught flat-footed.
 
 ---
 
 ### **Crew Weight Distribution & Hiking**
 
-In a keelboat like the J/22, hiking is the #1 priority. Unlike larger boats where sail trim is paramount, the J/22 lives and dies by crew weight. The specific positioning of crew matters as much as how hard they hike.
+Hiking is the #1 priority in a J/22. Crew positioning matters as much as how hard they hike.
 
-- **Upwind, everyone shifts forward, including the helmsman.** Even the helmsman moves ahead of the traveler. This forward positioning gets weight forward in the boat where it helps maintain heel angle and pressure on the foils.
+- **Upwind, everyone shifts forward, including the helmsman.** Move ahead of the traveler to get weight forward where it maintains heel angle and foil pressure.
 
-- **Standard crew positioning upwind:** The jib trimmer (usually the biggest person) sits just aft of the cabin house and hikes with legs in and butt just over the rail. The driver sits as far forward as possible—ideally far enough to touch the winch on the cabin top. In very light air, the bow person sits right up next to the aft side of the shrouds. As wind builds, weight consolidates: the jib trimmer moves aft half a body width and the bow person slides back close to the jib trimmer. Keeping weight together on the rail is key for stability and boat control.
+- **Standard crew positioning upwind:** The jib trimmer (usually biggest) sits just aft of the cabin house, legs in, butt over the rail. The driver sits as far forward as possible—ideally far enough to touch the cabin top winch. In light air, the bow person sits next to the aft side of the shrouds. As wind builds, weight consolidates: jib trimmer moves aft half a body width, bow person slides back close to jib trimmer. Keep weight together on the rail for stability and control.
 
-- **Get all crew on the rail and hiking hard in light air.** This is the non-negotiable priority before you start worrying about subtle sail trim. The boat wants bodies out, and every one of them matters. You are "dying to get bodies out on the rail" in any condition where you're not already fully powered up.
+- **Get all crew on the rail and hiking hard in light air.** This is the non-negotiable priority before worrying about subtle sail trim. The boat wants bodies out.
 
-- **Bodies on the rail pressurize the keel and create flow over the underwater foils.** When crew is in the widest part of the boat and pressing down hard, it hooks up the keel and translates to an immediate 1-2 knot acceleration. This is more impactful than almost any sail adjustment.
+- **Bodies on the rail pressurize the keel and create foil flow.** When crew in the widest part presses down hard, it hooks the keel and translates to an immediate 1-2 knot acceleration. This is more impactful than almost any sail adjustment.
 
-- **Keep crew weight together and positioned thoughtfully.** Avoid having the jib trimmer way out on the rail while the helmsman is inside—weight distribution matters. In choppier water, keep weight more consolidated in the boat's center rather than spread out.
+- **Keep crew weight together and positioned thoughtfully.** Don't have the jib trimmer way out on the rail while the helmsman is inside. In choppier water, consolidate weight in the boat's center rather than spread out.
 
-- **Helmsman positioning:** Sit as far forward as possible to reduce windage and move weight forward. Some helmsmen steer with one hand while reaching forward with the other to trim backstay, helping get weight as far forward as possible. In windier conditions when moving aft to play the mainsheet, move back only half a body width.
+- **Helmsman positioning:** Sit as far forward as possible to reduce windage and move weight forward. Steer with one hand while reaching forward with the other to trim backstay. In windier conditions when moving aft to play the mainsheet, move back only half a body width.
 
-- **Bow person should lower their profile** and lean shoulders in against the cabin to minimize air drag. Drag is a power function—the faster the boat goes, the more drag matters. Getting crew lower and more compact can translate to real speed gains, especially over a whole race where small aerodynamic gains add up.
+- **Bow person should lower their profile** and lean shoulders against the cabin to minimize air drag. Getting crew lower and more compact translates to real speed gains over a whole race.
 
-- **Jib trimmer is the primary weight mover in lighter air.** The jib trimmer is the first to move to leeward in a lull (say 7 knots). Try not to move the bow person if you can help it, to keep the rig quiet. The jib trimmer can move more smoothly and is therefore more active in weight management.
+- **Jib trimmer is the primary weight mover in lighter air.** Move first to leeward in a lull (around 7 knots). Keep the bow person still to keep the rig quiet. The jib trimmer moves more smoothly and is therefore more active in weight management.
 
 ---
 
 ### **Traveler Adjustment**
 
-The traveler is your "gross tune"—it has massive influence on boat balance and should be adjusted thoughtfully in response to wind conditions.
+The traveler is your "gross tune"—it has massive influence on boat balance. Adjust it thoughtfully in response to wind conditions.
 
-- **Light air (under 8 knots): traveler all the way up** (at the edge of the weather seat). When you don't have enough wind to power the boat, you want maximum power from the sails. The traveler all the way up puts the boom on centerline and maximizes the effective drive of the main.
+- **Light air (under 8 knots): all the way up** (edge of the weather seat). This puts the boom on centerline and maximizes main drive.
 
-- **Medium air (8-12 knots): traveler medium up.** As conditions build, you can start to ease the traveler down slightly to depower the main while still getting bodies out and hiking.
+- **Medium air (8-12 knots): traveler medium up.** Ease it down slightly as conditions build to depower the main while getting bodies out and hiking.
 
-- **Heavy air (12+ knots): pin the traveler in the center.** Once the breeze gets really strong and everyone is hiking hard, the traveler goes to the center and stays there. You'll manage power through backstay (gross tune) and main sheet (fine tune).
+- **Heavy air (12+ knots): pin the traveler in the center.** Manage power through backstay and main sheet.
 
-- **Don't move the traveler down until the backstay is on and all bodies are hiking hard.** The traveler is too powerful a control to be constantly tweaking. Get it roughly in the right zone for conditions and then leave it alone while you play the main sheet and jib sheet. Moving it down before you've extracted maximum power from your crew position loses speed.
+- **Don't move the traveler down until the backstay is on and all crew are hiking hard.** It's too powerful a control to tweak constantly. Set it for the conditions and leave it alone while you play the main and jib sheets.
 
-- **Leave the traveler slightly higher than what you think is perfect.** This is a strategic choice: if a big puff comes and the boat starts to heel up, you can always ease the main sheet more. But if your traveler is already too low, you've got nothing left to do and the boat will heel over. Better to be on the higher/more powered-up side and have easing main sheet as your escape valve.
+- **Leave the traveler slightly higher than perfect.** If a puff comes, you can ease the main sheet more. If the traveler is already too low, you've got nothing left. Better to be on the higher/powered-up side with main sheet easing as your escape valve.
 
 ---
 
 ### **Backstay, Vang, & Gear Shift Sequence**
 
-The order in which you adjust controls as wind builds is important. The backstay and vang are hugely important, and the sequence matters.
+The order in which you adjust controls as wind builds is critical.
 
-- **Gear shift sequence as wind picks up:** Start by putting backstay on, then more mainsheet, then more backstay again, always taking slack out of the vang until you get to maximum backstay. If the wind continues to build, start to play the traveler a little. However, if the traveler car ends up at the leeward seat, that's your cue to center the traveler and start playing the mainsheet exclusively with full vang on.
+- **Gear shift sequence:** Backstay on → more mainsheet → more backstay → take slack out of vang → maximum backstay. If wind continues, play the traveler. When traveler car reaches the leeward seat, center it and play mainsheet exclusively with full vang on.
 
-- **Use the backstay as a "gross tune" to manage mainsail shape.** More backstay = flatter main and increased twist. In heavier air, gradually bring backstay on to flatten the main, reduce the top of the main, and depower. This is a major control that takes priority in the gear shift sequence.
+- **Use the backstay as a "gross tune" to manage mainsail shape.** More backstay = flatter main and increased twist. Gradually bring it on to flatten the main, reduce the top, and depower in heavy air.
 
-- **Vang management by the bow person:** The bow person hikes off the vang, so they pull the vang on when hiking out and let the vang off when coming back in. This keeps the vang play matched to weight movements. In puffs, the bow person tightens the vang. In lulls, they ease it to add depth to the bottom of the sail. Vang tension: medium in medium breeze (to keep some boom shape), hard in 12+ knots (to prevent the boom from rising and opening the leech too much when you dump main sheet in a puff).
+- **Vang management:** The bow person hikes off the vang—pull it on when hiking out, release when coming back in. Tighten in puffs, ease in lulls to add depth to the bottom of the sail. Medium tension in medium breeze, hard in 12+ knots.
 
-- **Helm should remain relatively neutral.** If you're constantly pulling the tiller up to weather to keep the bow down, that's a signal that your jib is overtrimmed relative to the main. Trim the jib in one more click to balance the boat and reduce the helm requirement. The goal is centered helm.
+- **Keep helm neutral.** If you're constantly pulling the tiller up to weather, your jib is overtrimmed. Trim the jib in one more click to balance the boat. The goal is centered helm.
 
-- **Don't overreact to headers on telltales.** When you see the telltales luff briefly, it might be a true header (wind direction shift), or it might just be the boat decelerating because the breeze has gotten lighter. Make sure before you react with a tack. If you're in doubt, ease the jib slightly first to see if the boat accelerates—if it does, it was probably just a lull, not a header.
+- **Don't overreact to telltale headers.** A brief luff might be a wind direction shift or just the boat decelerating from lighter breeze. Ease the jib slightly first to see if the boat accelerates—if it does, it was a lull, not a header.
 
-- **Communicate about big wind changes.** As wind builds with a big velocity change, the jib halyard should be adjusted (made tighter). The crew communication loop should include calls about needing more vang, more backstay, more mainsheet, etc. The driver asks for specific controls rather than guessing.
+- **Communicate about big wind changes.** As wind builds, adjust jib halyard (tighten it). Use crew communication to call for more vang, backstay, mainsheet, etc. The driver asks for specific controls rather than guessing.
 
 ---
 
 ### **Lull & Puff Management (Active Sheeting)**
 
-The J/22 requires active, dynamic response to wind changes. This is where crew communication and coordination shine. The crew dialogue loop is critical.
+The J/22 requires active, dynamic response to wind changes. Crew communication and coordination are critical.
 
-- **When a lull hits, the driver should trim the main in aggressively.** The driver's primary focus in these moments is managing the main sheet and backstay. By trimming in, you rebalance the boat, prevent the bow from crashing down to leeward, and buy time for crew to move weight in. This isn't about sailing lower; it's about managing heel and balance proactively.
+- **When a lull hits, trim the main in aggressively.** This rebalances the boat, prevents the bow from crashing down to leeward, and buys time for crew to move weight in. You're managing heel and balance, not sailing lower.
 
-- **Simultaneously, crew moves in off the rail to reduce heel,** and the jib trimmer eases the jib slightly ("gives it a quick burp") to reduce downwind pressure from the jib. All three actions—driver trimming main, crew moving in, trimmer easing jib—happen nearly simultaneously. They work together to prevent weather heel and the associated boat deceleration.
+- **Simultaneously, crew moves in off the rail to reduce heel,** and the jib trimmer eases the jib slightly ("quick burp") to reduce downwind pressure. All three actions happen together to prevent weather heel and boat deceleration.
 
-- **When you see a puff coming, count it down.** Good crews watch for puffs on the water (ripples/darker patches) or feel them building and preemptively get crew ready to move out. As the puff hits, crew moves out to the rail and hikes hard, jib trimmer trims in to capture the drive, and driver eases main sheet to keep boat flat.
+- **When you see a puff coming, count it down.** Watch for puffs on the water (ripples/darker patches) and preemptively get crew ready to move out. As the puff hits, crew moves out to the rail and hikes, jib trimmer trims in to capture drive, and driver eases main sheet to keep boat flat.
 
-- **Crew communication structure:** 
-  - **Bow person calls:** Major waves, flat spots, puffs, and lulls. This allows the driver to decide whether to bear off around a wave or ride high over it, and lets everyone know what's coming.
-  - **Middle crew (jib trimmer) talks about:** Relative boat speed compared to nearby boats and tactical positioning. They're scanning the fleet while managing jib trim.
-  - **Driver's requests:** The driver asks for specific adjustments ("Give me more vang," "Ease the jib a little," "Big hike here") rather than crew guessing what's needed.
+- **Crew communication structure:**
+  - **Bow person calls:** Major waves, flat spots, puffs, and lulls to help driver decide whether to bear off or ride high.
+  - **Middle crew (jib trimmer):** Relative boat speed and tactical positioning. Scan the fleet while managing jib trim.
+  - **Driver:** Ask for specific adjustments ("Give me more vang," "Ease the jib," "Big hike") rather than crew guessing.
 
-- **In puffy conditions, prioritize adjustments in order:** Main sheet and jib sheet are the quickest adjustments (instant crew response). Backstay is secondary (takes a moment to adjust). Traveler is slowest and most disruptive—get it set for the overall conditions and leave it alone.
+- **In puffy conditions, prioritize adjustments:** Main and jib sheets (quickest). Backstay (secondary). Traveler (slowest, most disruptive—set and leave it).
 
-- **The driver should leave the traveler slightly higher than perfect** so easing main sheet is always available as an adjustment. If a puff hits and you need to keep the boat on its feet, main sheet easing is your fastest response.
+- **Leave the traveler slightly higher than perfect** so easing main sheet is always available. If a puff hits, main sheet easing is your fastest response.
 
-- **Match speed before match angle.** In a lull or choppy water, keeping the boat moving (bearing off slightly, easing sails) is more important than maintaining your target compass heading. As breeze returns, you can head back up. Keeping boat speed up ensures better helm response and reduces the chance of getting stuck in the lull's effect.
+- **Match speed before angle.** In a lull or choppy water, keeping the boat moving (bearing off, easing sails) is more important than maintaining compass heading. As breeze returns, head back up. Speed keeps helm responsive and prevents getting stuck in lulls.
 
 ---
 
@@ -140,16 +140,16 @@ The J/22 requires active, dynamic response to wind changes. This is where crew c
 
 ### **Starting Line Execution**
 
-The start is where good boat handling shows. The J/22 has a unique starting technique.
+The J/22 start is unique. Good boat handling shows here.
 
-- **Set up all boats with jibs luffing at the start.** The fleet lines up with jibs luffing and sails backed, each team attempting to keep way on and leave a hole to leeward for acceleration just before the gun. It's like college sailing—maneuvering skills are key.
+- **Line up with jibs luffing.** The fleet lines up with jibs backed, keeping way on and leaving a hole to leeward for acceleration before the gun. Maneuvering skills are key.
 
-- **Three key tips for starting well:**
+- **Three key tips:**
   1. **Set up far enough back from the line** to avoid being early
-  2. **Over-trim the main when sailing up to the line** to keep flow over the keel so you don't slide sideways when you trim in to go
-  3. **Don't pull the trigger too soon**—avoid sailing down on top of boats to leeward of you
+  2. **Over-trim the main sailing up to the line** to keep keel flow and prevent sideways slide when you trim in to go
+  3. **Don't pull the trigger too soon**—avoid sailing down on boats to leeward of you
 
-- **Goal is to open up a hole to leeward.** Heel the boat to leeward to turn it; then flatten the boat to accelerate into clear air just before the gun.
+- **Open a hole to leeward.** Heel the boat to leeward to turn; flatten the boat to accelerate into clear air just before the gun.
 
 ### **Tacking Technique**
 
@@ -243,10 +243,6 @@ A jibe in a J/22 has distinct phases, and the timing of twing changes (topping l
 How you set up and manage the pole determines whether your spinnaker work is efficient or chaotic.
 
 - **The spinnaker pole lives on the deck inside the shrouds**, never between the shrouds or clipped to them. This is where it stays until needed. Having it ready and in position saves precious seconds during the set and drop.
-
-- **No foreguy is attached** (at least in match racing and most fleet racing setups). This simplifies the system and reduces the number of things that can go wrong.
-
-- **Tape the foreguy bridle onto the pole carefully**, being very careful not to tape the trip line (the line that releases the pole from the mast). The trip line needs to be free to operate.
 
 - **Tape the bullet block for the spinnaker halyard to the shrouds for quick reference and to keep it secure during mark roundings and jibes.** Mark all halyards, sheets, topping lift, vang, and guy with tape at critical points (e.g., "spinnaker up to here" on the halyard).
 
